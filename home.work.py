@@ -5,6 +5,7 @@ word = list ()
 empty_list = list () 
 # print(len(empty_list)) 
 print(empty_list) 
+
  
  
 # task 2 
